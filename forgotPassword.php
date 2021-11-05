@@ -43,7 +43,7 @@
     <title>Reset Password</title>
 </head>
 <body>
-<form action="forgotpassword.php" method="post">
+<form action="forgotPassword.php" method="post">
     <div class="form">
     <?php
         if($passchanged)
