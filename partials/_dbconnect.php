@@ -1,8 +1,8 @@
 <?php
 $server ="remotemysql.com";// remote database
-$username="DshHNFZcBN";
-$password="CZnecs4YpG";
-$database="DshHNFZcBN";
+$username="YFSfXnVw1b";
+$password="neZXh0YtCl";
+$database="YFSfXnVw1b";
 $conn=mysqli_connect($server,$username,$password,$database);
 // if($conn)
 // {
