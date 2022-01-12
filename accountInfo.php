@@ -15,7 +15,7 @@
 <body>
 <?php require 'partials/navbar.php'?>
 <div class="container">
-    <h2 class="text-center pt-4" style="color : black;">Registered Users</h2>
+    <h2 class="text-center pt-4" style="color : black;">User information</h2>
     <div class="table-responsive-sm">
     <table class="table table-hover table-striped table-condensed table-bordered">
         <tbody>
